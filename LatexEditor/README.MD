@@ -1,1 +1,1 @@
-
+LaTeX is a well known high quality document markup language. It provides a large variety of styles and commands with a tool like MikTex, Lyx, etc. The objective of this project was to develop a simple LaTeX editor for inexperienced LaTeX users. The goal of the editor is to facilitate the usage of LaTeX commands for the preparation of LaTeX documents. 
